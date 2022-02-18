@@ -12,5 +12,10 @@
         Earum animi magni repellat incidunt quo vero reprehenderit 
         impedit dolorum quos consequatur doloribus fuga modi, 
         ullam minus consequuntur assumenda laudantium dicta ea.</p>
+
+        <ul>
+            <li>satu</li>
+            <li>dua</li>
+        </ul>
 </body>
 </html>
